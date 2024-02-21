@@ -3,25 +3,29 @@ order: 3
 image: assets/img/chairs2.jpg
 image_position: bottom
 ---
-### The proposal
+### The Proposal
 
-Chris decided he wanted to propose to Nikita soon after he moved
-to Chicago.  He decided to propose where their relationship began
-– at their 5-year Stanford reunion. With the help of his parents,
-he chose a ring on a family trip to Hong Kong and hid it in his
-closet for months. He coordinated with Nikita’s girlfriends to
-come up with the perfect proposal. True to form, Nikita repeatedly
-changed her plans that weekend, forcing Chris to adjust and
-re-adjust his proposal. On the final morning of reunion weekend,
-Nikita set out on foot to meet a friend at the Oval to take some
-engagement pictures for her and her new fiancé (the latest ruse).
-Little did she know that her friends were waiting around the
-corner to whisk Chris over to the Oval by car.  Nikita obliviously
-walked to the Oval, where she found Chris waiting for her.  Chris
-nervously rushed through his speech, maneuvering Nikita around the
-crowd of tourists that had suddenly appeared, and got down on one
-knee. Nikita started blubbering, but made sure to say an audible
-“yes” before he slipped the ring on her finger.  Nikita’s friends
-poured out of their cars, where they had been surreptitiously
-recording the whole event on their phones. And, just like that,
-they started the countdown to #BacligVashi2016.
+Will knew that Alison always had a special bond with her grandfather
+Harry, who unfortunately passed before he ever had the chance to meet
+him. In spite of not having him physically there, Will wanted to make
+sure that Harry would be their in spirit when he asked Alison to marry
+him.
+
+With that in mind, the question was how? Harry was born in Brooklyn,
+and fortunately for Will and Alison they always loved traveling to
+New York City. Without her having any knowledge of what was
+going to happen, Will and Alison booked a labor day trip up in the
+big Apple.
+
+So with a ring in hand and the vacation booked, the stage was set for 
+the question to be popped. The first day of the vacation they spent
+enjoying the wonderful bars and restaurants New York city has to
+offer, with a nightcap going to see Hamilton on Broadway (don't ask
+Alison about it - she fell asleep). The next morning Will and Alison
+awoke and decided to take a trip across the Brooklyn Bridge. After
+arriving in Brooklyn, they sat together on a short stone wall in
+a Fort Greene Park. Birds were chirping in the background and
+a Tai Chi group was meditation in the background. As they talked
+and recanted the wonderful times they had spent together, and with
+the spirit of Harry close nearby, Will finally asked Alison the all
+important question of "Will you marry me?"

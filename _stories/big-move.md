@@ -3,18 +3,18 @@ order: 2
 image: assets/img/bell.jpg
 image_position: bottom
 ---
-### The big move
+### The Big Move
 
-Then Nikita got into medical school – in Chicago.  Chris, being
-the true Californian that he is, barely knew where Chicago was.
-So when Nikita suggested they continue their relationship
-long-distance, he unknowingly acquiesced.  How hard could it be?
-He soon discovered that Chicago was indeed a great distance away,
-but neither the distance (nor the cold) stopped him from visiting
-Nikita as she buried herself in medical school at UIC. After 2½
-years of flying back and forth (oh the miles!), Chris finally took
-the plunge and moved to Chicago to be with his girl.  Slowly but
-surely, they built a life together in Chicago – exploring the
-city’s amazing restaurants, running through Millenium Park, and
-investing in Chris’ first winter coat. Soon enough, Chicago felt
-like a second home.
+After their time in Pacific Beach came to an end, the next living
+situation took Will and Alison all the way across the country
+to Will's parents' beach condo in Ocean City, MD. For many, the
+concept of leaving San Diego to move to Ocean City would be foreign.
+For Alison, this was a particularly new and exciting challenge as she
+would be leaving behind the only home she ever knew.
+
+In spite of the challenges, in July of 2023 Will and Alison packed up
+the "Mazderatti" and hit the road for their cross country journey together.
+Along the way they spent time in Zion National Park, Bryce Canyon and Denver.
+After trekking the great nothingness that is Kansas, they made pit stops
+at friends and family in Nashville, TN and Asheville, NC. Fun was had all around.
+
