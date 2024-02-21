@@ -10,11 +10,7 @@
   link: /faq
 - name: City Guide
   link: /guide
-- name: Registry
-  link: /registry
 - name: Photos
   link: /photo-gallery
-- name: Livestream
-  link: /livestream
 - name: RSVP
   modal_id: rsvp-modal

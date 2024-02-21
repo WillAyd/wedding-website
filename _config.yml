@@ -30,3 +30,13 @@ permalink: pretty
 
 exclude:
   - _compress_images_cache.yml
+
+hotels:
+  - name: Hotel 1
+    rate: $300
+    address1: 123 Main Street
+    address2: La Jolla
+    phone: (555) 555-5555
+    description: A nice place
+    reserve_url:
+    coordinates: 32.8440811,117.2770388
