@@ -1,4 +1,4 @@
-google_analytics_id: G-X0BJ20T7XR
+# google_analytics_id: G-X0BJ20T7XR
 
 hero_image: assets/img/flowers.jpg
 hero_position: center center
@@ -14,7 +14,7 @@ theme:
 
 rsvp:
   use_code: true
-  code: 1234
+  code: 3022
   code_md5: 81dc9bdb52d04dc20036dbd8313ed055
   post_address: https://api.nathanorick.com/rsvp
   api_key: m7ccqIIa6S8uSBQzbhZzd1rZaoiCXObr1fcx4Wvy
