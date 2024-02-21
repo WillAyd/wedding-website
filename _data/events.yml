@@ -1,48 +1,47 @@
-- name: Wedding Shower
-  date: Thursday, May 26, 2016
-  time: 7pm
+- name: Rehearsal Dinner
+  date: 2024-11-22 17:00:00 -07:00
   attire: Casual
-  description: We have decided to not have a gender-specific wedding shower, but instead have an inclusive pre-wedding party for all guests and family members to celebrate our upcoming nuptials. Join us for our brunch shower to help us get our wedding season started! Parking will be plentiful at the restaurant. If you are interested in bringing a gift, our registries are linked on the site!
+  description: We are still in the process of selecting our rehearsal dinner location, but most likely this will be a restaurant in La Jolla. Stay tuned!
   transportation:
   location:
-    address: 640 Pansy Hill Rd
-    city: Harriman
-    state: TN
-    long_state: Tennessee
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
+    address: 123 Main St
+    city: San Diego
+    state: CA
+    long_state: California      
+    zip: 92037
+    coordinates: 32.849176973118,117.272744178772
+    google_maps_url: https://duckduckgo.com/?hps=1&q=la+jolla+womans+club+san+diego&atb=v407-1&ia=web&iaxm=places
     venue_name:
 
 - name: Wedding Ceremony
   main_event: true
-  date: 2021-04-03 17:00:00 −04:00
-  endDate: 2021-04-03 21:00:00 -04:00
-  attire: snappy casual
-  description: Our wedding ceremony will be the perfect blend of our separate Catholic and Baptist traditions. Please arrive at least 10 minutes prior to the start of the ceremony in order to find your seat. There will be a parking attendant on site to direct you, and the venue will also provide transportation to the ceremony site if needed. We ask that you please ensure that your cell phones are off and out of sight for the duration of the ceremony.
+  date: 2024-11-23 16:00:00 -07:00
+  endDate: 2024-11-23 22:00:00 -07:00
+  attire: casual
+  description: The wedding will be held on the grounds of the beautiful La Jolla Woman's Club in the heart of La Jolla.
   transportation:
   shuttle:
   location:
-    address: 640 Pansy Hill Rd
+    address: 7791 Draper Ave
     city: San Diego
     state: CA
     long_state: California
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-    venue_name:
+    zip: 92037
+    coordinates: 32.8440811,117.2770388
+    google_maps_url: https://duckduckgo.com/?hps=1&q=la+jolla+womans+club+san+diego&atb=v407-1&ia=web&iaxm=places
+    venue_name: La Jolla Woman's Club
   calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Will Ayd.
 
 - name: Reception
   date_alt: Immediately following the ceremony
-  attire: snappy casual
+  attire: casual
   description: The wedding reception is at the same venue as the ceremony and will commence directly after the ceremony ends. Venue staff will direct you to the reception space. Dinner will be provided and make sure to bring your dancing shoes!
   location:
-    address: 640 Pansy Hill Rd
-    city: Harriman
-    state: TN
-    long_state: Tennessee
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
+    address: 7791 Draper Ave
+    city: La Jolla
+    state: CA
+    long_state: California
+    zip: 92037
+    coordinates: 32.8440811,117.2770388
+    google_maps_url: https://duckduckgo.com/?hps=1&q=la+jolla+womans+club+san+diego&atb=v407-1&ia=web&iaxm=places
     venue_name:
