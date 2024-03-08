@@ -1,10 +1,10 @@
 families:
-  - pic: rutherfords.png
+  - pic: ayds.jpeg
     name: The Ayds
     people: Willie, Barbara, Kaitlin, Jillian, William
-  - pic: gallions.jpeg
+  - pic: gallions.jpg
     name: The Gallions
-    people: Scott, Tessa, Natalie, Alison
+    people: Alison, Tessa, Natalie, Scott
 kids:
   - pic: taika.jpeg
     name: Taika
@@ -17,15 +17,15 @@ her_side:
     role: Bridesmaid
     description: Alison's Sister
   - name: Riba Tamulonis
-    pic: sarah.jpg
+    pic: riba.jpeg
     role: Bridesmaid
     description: Alison's Best Friend
 his_side:
   - name: Brendan Delaney
-    pic: nathan.jpg
+    pic: brendan.jpeg
     role: Best Man #1
     description: Will's Friend
   - name: Greg Fox
-    pic: garrett.jpg
+    pic: greg.jpeg
     role: Best Man #2
     description: Will's Friend

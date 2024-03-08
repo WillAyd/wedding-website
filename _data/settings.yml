@@ -7,9 +7,9 @@ hero_position: center center
 
 theme:
   # text_color: '#404040'
-  primary_color: '#205138'
-  # secondary_color: '#a2a183'
-  # accent_color: '#afa63d'
+  primary_color: '#d7cbbf'
+  secondary_color: '#dde6ef'
+  # accent_color: '#473198'
   # background_color: '#ffff'
 
 rsvp:

@@ -1,8 +1,14 @@
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-compress-images
+
 # Site settings
 theme: jekyll-theme-easy-wedding
 title: Will & Alison
-email: nathan@nathanorick.com
-url: http://wedding.nathanorick.com # Be sure to include http:// or https://
+email: william.ayd@icloud.com
+url: https://willandalison.com
 description: "We're getting married and can't wait to celebrate with you!"
 baseurl: ""
 
@@ -31,12 +37,37 @@ permalink: pretty
 exclude:
   - _compress_images_cache.yml
 
+compress_images:
+  images_path: "{assets,photos}/**/*.{gif,png,jpg,jpeg,svg}"
+
 hotels:
   - name: Hotel 1
-    rate: $300
+    rate: $XXX
     address1: 123 Main Street
     address2: La Jolla
     phone: (555) 555-5555
     description: A nice place
     reserve_url:
     coordinates: 32.8440811,117.2770388
+
+context: sandiego
+
+guide:
+  sandiego:
+    - [
+      Fun,
+      [
+        {
+          title: Pacific Beach,
+          description: This is where we used to live
+        },
+        {
+          title: La Jolla,
+          description: This is where the wedding is
+        },        
+      ]
+    ]
+    - [
+      Arts,
+      [{title: Comedy Club, description: This is one in La Jolla}]
+    ]
