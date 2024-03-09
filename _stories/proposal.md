@@ -8,7 +8,7 @@ image_position: bottom
 Will knew that Alison always had a special bond with her grandfather
 Harry, who unfortunately passed before he ever had the chance to meet
 him. In spite of not having him physically there, Will wanted to make
-sure that Harry would be their in spirit when he asked Alison to marry
+sure that Harry would be there in spirit when he asked Alison to marry
 him.
 
 With that in mind, the question was how? Harry was born in Brooklyn,
