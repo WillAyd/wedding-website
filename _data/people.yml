@@ -21,21 +21,27 @@ her_side:
     description: Alison's Best Friend
   - name: Lisa Timanus
     pic: lisa.jpeg
+    role: Bridesmaid
     description: Bridesmaid
   - name: Tiffany Marc
     pic: tiffany.jpeg
+    role: Bridesmaid
     description: Bridesmain
   - name: Scarlett Cerutti
     pic: scarlett.jpeg
+    role: Bridesmaid
     description: Bridesmaid
   - name: Kaitlin Szymanski
     pic: kaitlin.jpeg
+    role: Bridesmaid
     description: Bridesmaid
   - name: Jillian Carmen
     pic: jill.jpeg
+    role: Bridesmaid
     description: Bridesmaid
   - name: Aubrey Szymanski
     pic: aubrey.jpeg
+    role: Junior Bridesmaid
     description: Junior Bridesmaid
 his_side:
   - name: Brendan Delaney
