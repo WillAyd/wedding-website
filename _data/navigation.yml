@@ -12,5 +12,5 @@
   link: /guide
 - name: Photos
   link: /photo-gallery
-- name: RSVP
-  modal_id: rsvp-modal
+#- name: RSVP
+#  modal_id: rsvp-modal

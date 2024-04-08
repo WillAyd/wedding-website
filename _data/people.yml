@@ -1,7 +1,6 @@
 families:
   - pic: ayds.jpeg
     name: The Ayds
-    people: Willie, Barbara, Kaitlin, Jillian, William
   - pic: gallions.jpg
     name: The Gallions
     people: Alison, Tessa, Natalie, Scott
@@ -12,7 +11,7 @@ kids:
     name: Bodie
     position: top
 her_side:
-  - name: Natalie Gallion
+  - name: Natalie Johnson
     pic: natalie.jpg
     role: Bridesmaid
     description: Alison's Sister
@@ -20,6 +19,24 @@ her_side:
     pic: riba.jpeg
     role: Bridesmaid
     description: Alison's Best Friend
+  - name: Lisa Timanus
+    pic: lisa.jpeg
+    description: Bridesmaid
+  - name: Tiffany Marc
+    pic: tiffany.jpeg
+    description: Bridesmain
+  - name: Scarlett Cerutti
+    pic: scarlett.jpeg
+    description: Bridesmaid
+  - name: Kaitlin Szymanski
+    pic: kaitlin.jpeg
+    description: Bridesmaid
+  - name: Jillian Carmen
+    pic: jill.jpeg
+    description: Bridesmaid
+  - name: Aubrey Szymanski
+    pic: aubrey.jpeg
+    description: Junior Bridesmaid
 his_side:
   - name: Brendan Delaney
     pic: brendan.jpeg
