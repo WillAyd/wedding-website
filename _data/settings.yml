@@ -14,10 +14,10 @@ theme:
 
 rsvp:
   use_code: true
-  code: 3022
-  code_md5: 81dc9bdb52d04dc20036dbd8313ed055
-  post_address: https://api.nathanorick.com/rsvp
-  api_key: m7ccqIIa6S8uSBQzbhZzd1rZaoiCXObr1fcx4Wvy
+  code: 1123
+  code_md5: 2cfd4560539f887a5e420412b370b361
+  post_address: https://script.google.com/macros/s/AKfycbx2xYzcEnSXTv-kDnG5DrVuWMhv-dlBok_NcGA9fSlJYCS9Kjs3o3AGKeEjsksSqycx/exec
+  api_key:
   code_location: You can put the code on the back of your RSVP card, or turn off this functionality all together. The code for this sample is 1234
   yes_text: I'll be there
   no_text: I can't make it
@@ -28,11 +28,11 @@ rsvp:
   no_modal_title: Thank You!
   yes_modal_body: We're glad that you're hanging out with us on our wedding day!
   no_modal_body: We really wish you could have made it, but we still love you. <span class="fa fa-heart"></span>
-  sms_followup_text: You'll receive a text confirmation shortly.
+  sms_followup_text:
 
   # Comment these out to disable
-  song_text: What songs will get you dancing?
-  leave_a_message_text: Leave a message for the bride and groom.
+  #song_text: What songs will get you dancing?
+  #leave_a_message_text: Leave a message for the bride and groom.
 
 people:
   families_header: Our Families 
