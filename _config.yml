@@ -41,33 +41,10 @@ compress_images:
   images_path: "{assets,photos}/**/*.{gif,png,jpg,jpeg,svg}"
 
 hotels:
-  - name: Hotel 1
-    rate: $XXX
-    address1: 123 Main Street
-    address2: La Jolla
-    phone: (555) 555-5555
-    description: A nice place
-    reserve_url:
-    coordinates: 32.8440811,117.2770388
-
-context: sandiego
-
-guide:
-  sandiego:
-    - [
-      Fun,
-      [
-        {
-          title: Pacific Beach,
-          description: This is where we used to live
-        },
-        {
-          title: La Jolla,
-          description: This is where the wedding is
-        },        
-      ]
-    ]
-    - [
-      Arts,
-      [{title: Comedy Club, description: This is one in La Jolla}]
-    ]
+  - name: Empress Hotel La Jolla
+    rate: $550 for 2 nights
+    address1: 7766 Fay Avenue
+    address2: La Jolla, California 92037
+    phone: 858.454.3001
+    reserve_url: https://empress-hotel.com/index.php
+    coordinates: 32.8445128,117.2754915

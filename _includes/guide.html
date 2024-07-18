@@ -1,39 +1,132 @@
-{% if site.guide[site.context] %}
-  <section class="container content-section text-center">
-    <p>
-      In case you need some inspiration when deciding what to do in San Diego,
-      here are a few of our favorites!
-    </p>
+<section class="container content-section text-center">
+  <p>
+    In case you need some inspiration when deciding what to do in San Diego,
+    here are a few of our neighborhoods!
+  </p>
 
-    {% for section in site.guide[site.context] %}
-      <h3>{{ section[0] }}</h3>
+  <div class="row">
+    <div class="col-lg-6">
+      <h3>La Jolla</h3>
+      <p>Spanish for "the Jewel", La Jolla is a beautiful neighborhood built on top of cliffs overlooking the Pacific Ocean. Most of the wedding activities will be taking place in La Jolla, and if you only cared to stay near the venue you would find plenty of food, drink and shopping options at your disposal. La Jolla Shores Park is a great little area to waste away some time, and from there you have easy access to popular attractions like La Jolla Cove. Many sea lions and seals call La Jolla home, and there are also plenty of kayaking, snorkeling, scuba diving, and parasailing options.</p>
+
+      <p>
+        If you wanted to venture further out in La Jolla, Torrey Pines State Natural Reserve Park offers wonderful views of the Pacific, with plenty of trails for walking. Golfers in the group may want to check out the Torrey Pines Golf Course, which is famous for hosting part of the PGA Tour.
+      </p>
+    </div>
+    <div class="clearfix {% cycle 'hidden', 'visible-lg'%}"></div>
+
+    <div class="row">
+      <div class="col-lg-6">
+        <h3>Pacific Beach</h3>
+        <p>
+          Pacific Beach is where Will and Alison first lived together, so it is a place that feels like home to them. The closest attraction to their former apartment is Kate Sessions Park, where you can get one of the best views overlooking San Diego. Kaboose was our favorite juice bar, where you can grab a healthy lunch to set the right tone for the day. You can get around many parts of Pacific Beach using scooter rentals like Bird, or if you wanted a little range you could rent a bike at one of the many shops. With a bike you can do a nice lap around all of Mission Bay, optionally even going through Fiesta Island (though beware that Fiesta Island can get windy).
+        </p>
+
+        <p>
+          If you want to unwind, Pacific Beach has a ton of great food and drink options at your disposal. You can't go wrong with any place really, but some of our favorite establishments include PB Deli (they have the best sandwiches/wraps), 710 Shore Club, Cass St Bar and Grill. For a little extra oomph, check out the Red Bull Vodka Slushies at PB Shore Club.
+        </p>
+      </div>
+      <div class="clearfix {% cycle 'hidden', 'visible-lg'%}"></div>
+
       <div class="row">
-        {% for one in section[1] %}
+        <div class="col-lg-6">
+          <h3>Mission Beach</h3>
+          <p>
+            Conveniently located next to Pacific Beach, Mission Beach is a popular area to go play volleyball or have a bonfire on the beach. There is a small amusement park complete with a roller coaster and miniature golf course.
+          </p>
+
+          <p>
+            For food and drink, check out Cannonball. Located on the roof of a building, Cannonball offers great views and great food all in one.
+          </p>
+        </div>
+        <div class="clearfix {% cycle 'hidden', 'visible-lg'%}"></div>
+
+        <div class="row">
+          <div class="col-lg-6">
+            <h3>Ocean Beach</h3>
+            <p>
+              Ocean Beach is a bit...strange, but in a good way of course. OB as the locals call it, is the hippie beach in San Diego. You won't find many national chains (though they couldn't fend off Starbucks) and the area is a little grungier than other beaches, but what OB lacks in polish it makes up for by having a great cultural scene.
+            </p>
+
+            <p>
+              If you are fortunate enough to be in San Diego on a Wednesday evening, the OB Farmers Market is a highly recommended activity. Stay a bit longer as the sun goes down and you will come across a drum circle / fire breathing show right on the water. If live music is more of your scene, check out Winston's, which has had the same Grateful Dead cover band play every Monday night for the past 25 years, or stop by THC, which can pull in some great live acts.
+            </p>
+            <p>
+              For a food / drink recommendation, be sure to try out La Doña, which is our personal favorite restaurant in all of San Diego. The food is excellent, as are the margaritas.
+            </p>
+          </div>
+          <div class="clearfix {% cycle 'hidden', 'visible-lg'%}"></div>
+
+          <div class="row">
             <div class="col-lg-6">
+              <h3>Old Town</h3>
               <p>
-                <strong>{{ one.title }}</strong>
-                <br>
-                {{ one.description}}
+                Old Town is a historic national park with roots dating back to the start of California. Walking around you will find many old time saloons filled with information about the early history of the state. For a little extra fun, check out one of the ghost tours being offered.
+              </p>
+
+              <p>
+                Old Town is also renown for its Mexican food. Check out the Cafe Coyote, or any restaurant in the area, for some authentic Mexican food.
               </p>
             </div>
-
             <div class="clearfix {% cycle 'hidden', 'visible-lg'%}"></div>
-        {% endfor %}
-      </div>
-    {% endfor %}
-  </section>
 
-  <section class="container content-section text-center">
-    <div class="row">
-      <div class="col-lg-12">
-        <h3>Map of San Diego</h3>
-        <p>
-          To help you get oriented, most of the above places are marked below.
-        </p>
-        <div>
-          <iframe src="https://www.google.com/maps/d/embed?mid=1kW8LjT4rE3icaQ84zN7o-eVcyh0QUM8&ehbc=2E312F" class="map"></iframe>
-        </div>
+            <div class="row">
+              <div class="col-lg-6">
+                <h3>Balboa Park</h3>
+                <p>
+                  Balboa Park is situated right in the heart of the city, with easy access to downtown. Balboa Park boasts 18 museums that you can explore in one area, and is also home to the world famous San Diego Zoo.
+                </p>
+              </div>
+              <div class="clearfix {% cycle 'hidden', 'visible-lg'%}"></div>
+
+              <div class="row">
+                <div class="col-lg-6">
+                  <h3>Further Out...</h3>
+                  <p>
+                    If you are making an extra vacation out of your travels to southern California, there are endless recommendations for things to go explore. If you wanted to go down to Mexico for the day, you can get to the border relatively easily and walk across. Once in Mexico, you can grab a taxi ride to Tijuana somewhere in the range of $5-$10, or go further south to Rosarita for $20-$30. There is also the Tijuana Water Park, which is a fun, affordable, and unique experience.
+                  </p>
+
+                  <p>
+                    If you wanted to stay in California, you may want to check out the town of Julian, which is about an hour east. Julian is a former gold rush town, where you can take a tour through a gold mine. There are also a few smaller vineyards out in the area, as well as apple pie shops.
+                  </p>
+
+                  <p>
+                    For wine lovers, check out Temecula, which is an hour north of where the wedding will be taking place. Temecula has a ton of great vineyards to choose from, as well as a casino if you wanted to gamble.
+                  </p>
+
+                  <p>
+                    One final suggestion and a personal favorite of ours is Joshua Tree. Joshua Tree is about a 3 hour drive away from San Diego. While not close, it is a beautiful park and generally just a wonderful place to go visit. There is nothing like Joshua Tree outside ouf the southwestern United States, so for those coming from further out we highly advise stopping by.
+                  </p>
+                </div>
+                <div class="clearfix {% cycle 'hidden', 'visible-lg'%}"></div>
+
+                <div class="row">
+                  <div class="col-lg-6">
+                    <h3>For Ravens Fans</h3>
+                    <p>
+                      If you happen to be a fan of the Ravens, you might be interested to hear that the Baltimore Ravens will be playing in Los Angeles the Monday directly after the wedding. Quite a few friends and family plan on going to the event, so if you would like to tag along please let Will know.
+                    </p>
+
+                    <p>
+                      Chargers fans need not apply.
+                    </p>
+
+                  </div>
+                  <div class="clearfix {% cycle 'hidden', 'visible-lg'%}"></div>
+
+
+</section>
+
+<section class="container content-section text-center">
+  <div class="row">
+    <div class="col-lg-12">
+      <h3>Map of San Diego</h3>
+      <p>
+        To help put things into perspective for you, here is a map pinning most of the neighborhoods in San Diego from our suggestions.
+      </p>
+      <div>
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1aFuLuBqAzBbyFlvxoNkDyVirRLbwo-c&ehbc=2E312F" width="640" height="480"></iframe>
       </div>
     </div>
-  </section>
-{% endif %}
+  </div>
+</section>
