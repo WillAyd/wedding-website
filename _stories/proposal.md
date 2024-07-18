@@ -11,9 +11,9 @@ him. In spite of not having him physically there, Will wanted to make
 sure that Harry would be there in spirit when he asked Alison to marry
 him.
 
-With that in mind, the question was how? Harry was born in Brooklyn,
-and fortunately for Will and Alison they always loved traveling to
-New York City. Without her having any knowledge of what was
+With that in mind, the question was how? Harry was born and raised in
+Brooklyn, and fortunately for Will and Alison they always loved traveling
+to New York City. Without her having any knowledge of what was
 going to happen, Will and Alison booked a labor day trip up in the
 big Apple.
 
@@ -25,7 +25,7 @@ Alison about it - she fell asleep). The next morning Will and Alison
 awoke and decided to take a trip across the Brooklyn Bridge. After
 arriving in Brooklyn, they sat together on a short stone wall in
 a Fort Greene Park. Birds were chirping in the background and
-a Tai Chi group was meditation in the background. As they talked
+a Tai Chi group was meditating in the background. As they talked
 and recanted the wonderful times they had spent together, and with
 the spirit of Harry close nearby, Will finally asked Alison the all
 important question of "Will you marry me?"

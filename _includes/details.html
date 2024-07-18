@@ -1,6 +1,6 @@
-<section class="container content-section text-center">
-  <div class="row">
-    <div class="col-lg-offset-2 col-lg-8">
+<section class="container content-section">
+  <div class="row justify-content-center">
+    <div class="col-lg-8">
       <h2>Where to Stay</h2>
       <p>
         We have a special wedding block reserved at the Empress Hotel in La Jolla. The Empress is with walking distance from the venue, nestled in the heart of La Jolla.
@@ -11,20 +11,21 @@
       <p>
         Space is limited so please book as soon as possible. If you have any trouble booking or need an alternative lodging accommodation, please reach out to Will or Alison.
       </p>
-      <div class="row">
-        {% for hotel in site.hotels %}
-          <div class="col-lg-offset-3 col-sm-6 ">
-            {% include hotel_thumbnail.html hotel=hotel %}
-          </div>
-        {% endfor %}
-      </div>
     </div>
   </div>
 </section>
 
-<section class="container content-section text-center">
-  <div class="row">
-    <div class="col-lg-offset-2 col-lg-8">
+<div class="row text-center">
+  <div class="col-lg-offset-2 col-lg-8">
+    {% for hotel in site.hotels %}
+    {% include hotel_thumbnail.html hotel=hotel %}
+    {% endfor %}
+  </div>
+</div>
+
+<section class="container content-section">
+  <div class="row justify-content-center">
+    <div class="col-lg-8">
       <h2>Getting Here</h2>
       <p>
         For those that need to fly, San Diego International Airport is the best airport to fly into. If you are coming from Maryland, Southwest offers multiple direct flights from BWI to SAN on a daily basis.

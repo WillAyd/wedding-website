@@ -1,16 +1,16 @@
 - name: Rehearsal Dinner
   date: 2024-11-22 17:00:00 -07:00
   attire: Casual
-  description: We are still in the process of selecting our rehearsal dinner location, but most likely this will be a restaurant in La Jolla. Stay tuned!
+  description: The rehearsal dinner will be held at Hennessey's Tavern, an Irish pub in La Jolla
   transportation:
   location:
-    address: 123 Main St
-    city: San Diego
+    address: 7811 Herschel Ave
+    city: La Jolla
     state: CA
     long_state: California      
     zip: 92037
-    coordinates: 32.849176973118,117.272744178772
-    google_maps_url: https://duckduckgo.com/?hps=1&q=la+jolla+womans+club+san+diego&atb=v407-1&ia=web&iaxm=places
+    coordinates: 32.8457878,117.2726005
+    google_maps_url: https://duckduckgo.com/?q=henneseys+tavern+la+jolla&t=ffab&atb=v407-1&iaxm=maps&source=places&iai=2294564
     venue_name:
 
 - name: Wedding Ceremony
@@ -28,7 +28,7 @@
     long_state: California
     zip: 92037
     coordinates: 32.8440811,117.2770388
-    google_maps_url: https://duckduckgo.com/?hps=1&q=la+jolla+womans+club+san+diego&atb=v407-1&ia=web&iaxm=places
+    google_maps_url: https://duckduckgo.com/?q=la+jolla+womans+club&t=ffab&atb=v407-1&iaxm=maps&source=places
     venue_name: La Jolla Woman's Club
   calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Will Ayd.
 
@@ -43,5 +43,5 @@
     long_state: California
     zip: 92037
     coordinates: 32.8440811,117.2770388
-    google_maps_url: https://duckduckgo.com/?hps=1&q=la+jolla+womans+club+san+diego&atb=v407-1&ia=web&iaxm=places
+    google_maps_url: https://duckduckgo.com/?q=la+jolla+womans+club&t=ffab&atb=v407-1&iaxm=maps&source=places
     venue_name:
