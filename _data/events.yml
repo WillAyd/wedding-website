@@ -1,18 +1,3 @@
-- name: Rehearsal Dinner
-  date: 2024-11-22 17:00:00 -07:00
-  attire: Casual
-  description: The rehearsal dinner will be held at Hennessey's Tavern, an Irish pub in La Jolla
-  transportation:
-  location:
-    address: 7811 Herschel Ave
-    city: La Jolla
-    state: CA
-    long_state: California      
-    zip: 92037
-    coordinates: 32.8457878,117.2726005
-    google_maps_url: https://duckduckgo.com/?q=henneseys+tavern+la+jolla&t=ffab&atb=v407-1&iaxm=maps&source=places&iai=2294564
-    venue_name:
-
 - name: Wedding Ceremony
   main_event: true
   date: 2024-11-23 16:00:00 -07:00
