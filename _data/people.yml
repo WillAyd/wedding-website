@@ -52,3 +52,18 @@ his_side:
     pic: greg.jpeg
     role: Best Man #2
     description: Will's Friend
+  - name: Dan Morris
+    pic: dan.jpeg
+    role: Groomsman
+  - name: Justin Benner
+    pic: justin.jpg
+    role: Groomsman
+  - name: Anthony Jackiewicz
+    pic: anthony.jpeg
+    role: Groomsman
+  - name: Alex Haywood
+    pic: alex.jpg
+    role: Groomsman
+  - name: Kyle Lawrence
+    pic: kyle.jpeg
+    role: Groomsman
